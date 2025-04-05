@@ -25,7 +25,7 @@ The project is divided into several key functions that handle different parts of
 - **Python 3.x**
 - **Pandas**: For data manipulation and preprocessing.
 - **mlxtend**: For the `TransactionEncoder` to handle one-hot encoding of the transactions.
-- **Tkinter** (optional): For potential GUI implementation (though this project is currently console-based).
+- **Tkinter** For GUI implementation
 
 ### Installation
 
